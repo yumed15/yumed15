@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**yumed15/yumed15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href='https://www.linkedin.com/in/andreea-diana-darie-8b8b63ab/'><img align='left' alt="linkedin" src="static/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/ddarie15'><img align='left' alt="twitter" src="static/twitter.svg" height='18px'/></a>
+<br />
 
-Here are some ideas to get you started:
+- ✨ Golang, Java, Python Engineer
+- ✍️ Sometimes I write: [The Crafty Dev](https://thecraftydev.substack.com/)
+- 🏃 And other times I run: [running-godwit](https://www.instagram.com/running_godwit/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><b>📚 Interests</b></summary>
+
+- Backend Development
+- Building Distributed Systems
+- Scaling Cloud Architectures
+- Data Engineering
+- Deep Learning, Machine Learning and Generative AI
+  <br />
+</details>
+
+<details>
+<summary><b>👩‍💻 Projects</b></summary>
+
+#### GO PROJECTS
+
+- [Bloom Filter Implementation](https://github.com/yumed15/go-projects/tree/main/bloom-filter)
+- [Cron Interpreter](https://github.com/yumed15/go-projects/tree/main/cron-parser)
+- [Escape Analysis Formatter](https://github.com/yumed15/go-projects/tree/main/escape-analysis)
+<br />
+</details>
