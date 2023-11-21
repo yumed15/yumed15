@@ -6,7 +6,6 @@
 
 - ✨ Golang, Java, Python Engineer
 - ✍️ Sometimes I write: [The Crafty Dev](https://thecraftydev.substack.com/)
-- 🏃 And other times I run: [running-godwit](https://www.instagram.com/running_godwit/)
 
 <details>
 <summary><b>📚 Interests</b></summary>
