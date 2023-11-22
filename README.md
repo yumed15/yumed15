@@ -14,7 +14,6 @@
 - Building Distributed Systems
 - Scaling Cloud Architectures
 - Data Engineering
-- Deep Learning, Machine Learning and Generative AI
   <br />
 </details>
 
