@@ -1,7 +1,7 @@
 ### Hi 👋
 
 <a href='https://www.linkedin.com/in/andreea-diana-darie-8b8b63ab/'><img align='left' alt="linkedin" src="static/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/ddarie15'><img align='left' alt="twitter" src="static/twitter.svg" height='18px'/></a>
+<a href='https://bsky.app/profile/thecraftydev.substack.com'><img align='left' alt="twitter" src="static/twitter.svg" height='18px'/></a>
 <br />
 
 - ✨ Golang, Java, Python Engineer
