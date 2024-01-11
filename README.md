@@ -1,11 +1,8 @@
 ### Hi 👋
 
-<a href='https://www.linkedin.com/in/andreea-diana-darie-8b8b63ab/'><img align='left' alt="linkedin" src="static/linkedin.svg" height='18px'/></a>
-<a href='https://bsky.app/profile/thecraftydev.substack.com'><img align='left' alt="twitter" src="static/twitter.svg" height='18px'/></a>
-<br />
-
 - ✨ Golang, Java, Python Engineer
-- ✍️ Sometimes I write: [The Crafty Dev](https://thecraftydev.substack.com/)
+- ✍️ I write about my tech experiences and my journey as a SE, [The Crafty Dev](https://thecraftydev.substack.com/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andreea-diana-darie-8b8b63ab/) and [Substack](https://substack.com/@dianadarie)
 
 <details>
 <summary><b>📚 Interests</b></summary>
